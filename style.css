@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1B2430;
+}
+@media screen and (max-width:768px) {
+    .appname{
+        font-size: 40px;
+    }
+    .features{
+        margin-left: -20px;
+    }
+     .introduction{
+        width: 263px;
+        font-size: 19px;
+        padding: 2px;
+     }
+     .gameModes{
+        width: 263px;
+        font-size: 19px;
+        padding: 2px;
+     }
+     .leaderboard{
+        width: 263px;
+        font-size: 19px;
+        padding: 2px;
+     }
+     .contributions{
+        width: 263px;
+        font-size: 19px;
+        padding: 2px;
+     }
+}
