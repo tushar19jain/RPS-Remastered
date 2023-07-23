@@ -1,1 +1,1 @@
-# RPS-Remastered
+# Rock Paper Scissors Web Game Documentation
